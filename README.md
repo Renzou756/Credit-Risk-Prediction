@@ -114,7 +114,7 @@ json
     {"feature": "loan_amnt", "value": 10000, "impact": 0.018}
   ]
 }
-'''bash
+bash
 
 
 ## Dashboard Features
@@ -198,5 +198,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Renzo Ugarte Basurco
 
 Email: renzo.ugarte@mail.
+
 
 
