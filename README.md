@@ -33,26 +33,47 @@
 
 ## Project Structure
 credit-risk-ai/
+
 ├── notebooks/
+
 │ ├── 01_eda.ipynb
+
 │ ├── 02_preprocess.ipynb
+
 │ └── 03_model.ipynb
+
 ├── src/
+
 │ ├── preprocess.py
+
 │ ├── model.py
+
 │ └── utils.py
+
 ├── api/
+
 │ └── main.py
+
 ├── dashboard/
+
 │ └── app.py
+
 ├── data/
+
 │ ├── processed.parquet
+
 │ ├── train_encoded.parquet
+
 │ └── test_encoded.parquet
+
 ├── models/
+
 │ ├── xgb_model.pkl
+
 │ └── shap_explainer.pkl
+
 ├── requirements.txt
+
 └── README.md
 
 
@@ -116,6 +137,7 @@ This system demonstrates how machine learning can:
 - **FastAPI** and **Streamlit** teams for fantastic deployment frameworks
 
 *This project is for demonstration purposes and should not be used for actual financial decisions without proper validation and regulatory compliance.*
+
 
 
 
